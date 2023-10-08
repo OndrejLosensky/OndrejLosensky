@@ -1,5 +1,7 @@
 Moje jméno je Ondřej Losenský 👋
+---------------------------------
 
+Kontaktovat mě můžete zde: losenskyondrej@gmail.com
 ______________________________________________________
   ČÍM SE ZABÝVÁM:
 
