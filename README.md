@@ -15,5 +15,5 @@ ______________________________________________________
 
 Zde můžete najít odkaz na můj NPM profil, kde se vyskytují mé balíčky, které je možné stáhnout:
   
-    https://www.npmjs.com/settings/losensky-ondrej/packages
+    https://www.npmjs.com/~losensky-ondrej
 
