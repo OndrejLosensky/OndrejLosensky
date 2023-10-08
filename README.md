@@ -1,14 +1,17 @@
 Moje jméno je Ondřej Losenský 👋
 
-Zabývám se vývojem webových stránek a aplikací v Reactu ⚛️
-místo klasického stylování větsinou používám tailwindCSS
+______________________________________________________
+  ČÍM SE ZABÝVÁM:
 
-  dále se také zabývám tvorbou:
-    - tvorbou scriptů v Pythonu 🐍
-    - tvorbou Windows aplikací v C# 
-    - tvorbou iOS aplikací ve SwiftUI
+    Tvorbou webových stránek a aplikací v Reactu ⚛️
+    Místo klasického CSS používám TailwindCSS nebo Bootstrap
+    Tvořím také scripty v Pythonu
+    Windows aplikace pomocí C#
+    iOS aplikace ve SwiftUI
+  
+______________________________________________________
 
-___________________________
-Zde můžete najít odkaz na můj NPM profil, kde se vyskytují všechny mé balíčky, které je možné stáhnout:
-  https://www.npmjs.com/settings/losensky-ondrej/packages
-___________________________
+Zde můžete najít odkaz na můj NPM profil, kde se vyskytují mé balíčky, které je možné stáhnout:
+  
+    https://www.npmjs.com/settings/losensky-ondrej/packages
+
