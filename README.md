@@ -1,4 +1,4 @@
-
+![WEB DEVELOPER](https://github.com/OndrejLosensky/OndrejLosensky/blob/main/banner.jpg)
 <p align="center">jsem Junior softwarový vývojář z Prahy📍</p> 
 
 
