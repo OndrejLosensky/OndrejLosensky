@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://github.com/OndrejLosensky/OndrejLosensky/blob/main/ProfileBanner.jpg"  />
-</div>
+![WEB](https://github.com/OndrejLosensky/OndrejLosensky/blob/main/banner.jpg)
 
 ###
 
