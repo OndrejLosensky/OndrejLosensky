@@ -2,15 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ondrejlosensky.ondrejlosensky&left_text=Počet návštěvníků na profilu"  />
-</div>
 
 ###
 
@@ -23,6 +17,9 @@
 ###
 
 <p align="center">jsem junior softwarový vývojář z Prahy</p>
+<div align="center">
+    <p> Kontaktovat mě můžete zde: </p> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
 ###
 
