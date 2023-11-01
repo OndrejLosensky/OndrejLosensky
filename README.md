@@ -9,19 +9,20 @@
 ###
 
 <p> </p>
-<h1 align="center">Vítejte👋</h1>
+<h1 align="center">Welcome👋</h1>
 
 ###
 
-<h3 align="center">👩‍💻 Něco o mně</h3>
+<h3 align="center">👩‍💻 Something about me</h3>
 
 ###
 
-<p align="center">jsem junior softwarový vývojář z Prahy 📍</p>
+<p align="center" width="200">I am software junior developer from Prague,Czech Republic📍 Currently I am creating projects mostly with JavaScript or Python. You can go through my repos and use everything you find there. Every repository is commented enough in its readme files and if you still have question you can contact me via e-mail </p>
+
 
 ###
 
-<h3 align="center">🛠 Programovací jazyky a knihovny</h3>
+<h3 align="center">🛠 Programming languages and libraries i used most recently</h3>
 
 ###
 
@@ -51,7 +52,7 @@
 
 ###
 
-<h3 align="center">🛠 Nástroje, které používám</h3>
+<h3 align="center">🛠 Tools that I use</h3>
 
 ###
 
@@ -75,7 +76,7 @@
 
 ###
 
-<h3 align="center">🔥   Můj nejdelší streak commitů:</h3>
+<h3 align="center">🔥  My longest commit streak:</h3>
 
 ###
 
@@ -85,7 +86,7 @@
 
 ###
 
-<h3 align="center">Využité jazyky v mých veřejných repositories:</h3>
+<h3 align="center">Top used languages in my public repos</h3>
 
 ###
 
@@ -97,7 +98,7 @@
 
 ###
 
-<h3 align="center">KONTAKT</h3>
+<h3 align="center">Contact</h3>
 
 ###
 
