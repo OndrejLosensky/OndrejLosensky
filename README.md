@@ -17,7 +17,8 @@
 
 ###
 
-<p align="center" width="200">I am software junior developer from Prague,Czech Republic📍 Currently I am creating projects mostly with JavaScript or Python. You can go through my repos and use everything you find there. Every repository is commented enough in its readme files and if you still have question you can contact me via e-mail </p>
+<p align="center" width="200">I am software junior developer from Prague,Czech Republic📍</p>
+<p align="center" width="50">  I am currently creating projects mostly with JavaScript or Python. You can go through my repos and use everything you find there. Every repository is commented enough in its readme files and if you still have question you can contact me via e-mail. </p>
 
 
 ###
