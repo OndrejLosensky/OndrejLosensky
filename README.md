@@ -90,12 +90,5 @@
 
 ###
 
-<h3 align="center">Contact</h3>
-
-###
-
-<div align="center">
-  <p> You can contact me anytime on my e-mail address: losenskyondrej@gmail.com </p>
-</div>
 
 ###
