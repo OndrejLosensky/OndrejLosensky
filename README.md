@@ -1,5 +1,4 @@
 ![WEB](https://github.com/OndrejLosensky/OndrejLosensky/blob/main/banner.jpg)
-
 ###
 
 
@@ -83,7 +82,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   
 </div>
-
+<div align="center">
+  <a href="https://app.daily.dev/ondralosik"><img src="https://api.daily.dev/devcards/v2/iaOOUJIs5cEdlrLW0Z7vR.png?type=default&r=tqu" width="356" alt="Ondřej Losenský's Dev Card"/></a>
+</div>
 ###
 
 ###
