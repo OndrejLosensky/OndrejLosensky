@@ -1,9 +1,9 @@
 ![banner](https://github.com/OndrejLosensky/OndrejLosensky/assets/127244546/9b3d8a52-d4a2-451c-abc2-88665464feae)
 
 ---
-# Welcome! 👋 
+# Hi, my name is Ondřej! 👋 
 
-My name is Ondřej Losenský and I am 19yo old software developer from Prague📌
+I am 19yo old software developer from Prague📌
 
 ![losenskyondrej@gmail.com](https://img.shields.io/badge/losenskyondrej@gmail.com-red?style=flat&logo=gmail&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)
