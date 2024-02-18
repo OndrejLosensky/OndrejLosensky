@@ -1,6 +1,6 @@
 # Welcome! 👋 
 
-My name is Ondřej Losenský, i am 19yo old software developer from Prague📌
+My name is Ondřej Losenský and I am 19yo old software developer from Prague📌
 
 ![losenskyondrej@gmail.com](https://img.shields.io/badge/losenskyondrej@gmail.com-red?style=flat&logo=gmail&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)
@@ -22,17 +22,10 @@ You can always contact me on my e-mail. I am opened to new **opportunities & job
   
 </details>
 
-#### currently learning:
-* SQL
-* PHP
-* Next.js
-* Bootstrap
 
 In my repositories you will find things such as [Sorting Algorithms](https://github.com/OndrejLosensky/sorting-algorithms), [Simple Python Scripts](https://github.com/OndrejLosensky/python-scripts-simple) or [Guestbook app](https://github.com/OndrejLosensky/guestbook-app) and many more.
 
 
-
-## Working on
 
 ##  💻 My Tech Stack
   <div>
