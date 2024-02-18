@@ -6,7 +6,7 @@ My name is Ondřej Losenský and I am 19yo old software developer from Prague�
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-purple?style=flat&logo=discord&logoColor=white)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOndrejLosensky%2FOndrejLosensky&countColor=%23007aff)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOndrejLosensky%2FOndrejLosensky)<br>
+
 
 ## 💬 About me
 I am still in High School graduating Spring 2024. Mostly I am working with JavaScript or TypeScript in React.js, but I also really love to create Python scripts that speed up my work or make it easier for me. Also I really love Graphics Design so I try to make everything look good. For mostly all my styling I use TailwindCSS. All projects that can be uploaded on web are hosted on Netlify.com 
