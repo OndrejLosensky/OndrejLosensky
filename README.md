@@ -12,7 +12,7 @@ I am 19yo old software developer from Prague📌
 
 
 ## 💬 About me
-I am still in High School graduating Spring 2024. Mostly I am working with JavaScript or TypeScript in React.js, but I also really love to create Python scripts that speed up my work or make it easier for me. Also I really love Graphics Design so I try to make everything look good. For mostly all my styling I use TailwindCSS. All projects that can be uploaded on web are hosted on Netlify.com 
+In spring 2024 i am graduating High School. I am working with JavaScript or TypeScript in React.js, but I also really love to create Python scripts that speed up my work or make it easier for me. Also I really love Graphics Design so I try to make everything look good. For mostly all my styling I use TailwindCSS. All projects that can be uploaded on web are hosted on Netlify.com 
 
 You can always contact me on my e-mail. I am opened to new **opportunities & jobs** 
 
