@@ -1,4 +1,4 @@
-![banner](https://github.com/OndrejLosensky/OndrejLosensky/assets/127244546/59817433-89cd-42d8-b28c-1ca92888e374)
+![banner](https://github.com/OndrejLosensky/OndrejLosensky/assets/127244546/9b3d8a52-d4a2-451c-abc2-88665464feae)
 ---
 # Welcome! 👋 
 
