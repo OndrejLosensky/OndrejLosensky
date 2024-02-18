@@ -31,7 +31,7 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
   <div>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,php,cs,python,swift,nodejs,bash,npm" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,php,cs,python,swift,nodejs,mysql,bash,npm" />
         </a>
       </p>
   </div>
@@ -45,7 +45,7 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
 <div>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,docker" />
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,docker,wordpress,stackoverflow" />
         </a>
       </p>
   </div>
