@@ -1,5 +1,6 @@
 # Welcome! 👋 
 
+![banner](https://github.com/OndrejLosensky/OndrejLosensky/assets/127244546/59817433-89cd-42d8-b28c-1ca92888e374)
 
 My name is Ondřej Losenský and I am 19yo old software developer from Prague📌
 
