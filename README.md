@@ -1,95 +1,66 @@
-![WEB](https://github.com/OndrejLosensky/OndrejLosensky/blob/main/banner.jpg)
-###
+# Welcome! 👋 
 
+My name is Ondřej Losenský, i am 19yo old software developer from Prague📌
 
+![losenskyondrej@gmail.com](https://img.shields.io/badge/losenskyondrej@gmail.com-red?style=flat&logo=gmail&logoColor=white)
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)
+![discord](https://img.shields.io/badge/discord-purple?style=flat&logo=discord&logoColor=white)
 
-###
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOndrejLosensky%2FOndrejLosensky&countColor=%23007aff)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOndrejLosensky%2FOndrejLosensky)<br>
 
-###
+## 💬 About me
+I am still in High School graduating Spring 2024. Mostly I am working with JavaScript or TypeScript in React.js, but I also really love to create Python scripts that speed up my work or make it easier for me. Also I really love Graphics Design so I try to make everything look good. For mostly all my styling I use TailwindCSS. All projects that can be uploaded on web are hosted on Netlify.com 
 
-<p> </p>
-<h1 align="center">Welcome👋</h1>
+You can always contact me on my e-mail. I am opened to new **opportunities & jobs** 
 
-###
+<details>
+  <summary> <strong>More...</strong> </summary>
 
-<h3 align="center">👩‍💻 Something about me</h3>
+  I am passionate about creating apps that make me learn new technologies, languages, styles or anything I'll get expirience from. You can also find some of my templates that i have created for anything I thought **(Notion, Wordpress, Shopify store)**, they are somewhere sold on gumroad or any other global system to sell digital products.
 
-###
-
-<p align="center" width="200">I am software junior developer from Prague,Czech Republic📍</p>
-<p align="center" width="50">  I am currently creating projects mostly with JavaScript or Python. You can go through my repos and get inspiration or even use something you like. For more information you can contact me via e-mail here: losenskyondrej@gmail.com
-
-
-###
-
-<h3 align="center">🛠 Programming languages and libraries i used most recently</h3>
-
-###
-
-<div align="center">
-  <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-        <img width="12" /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="react logo"  />
-        <img width="12" /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="react logo"  />
-        <img width="12" /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="react logo"  />
-  </div>
-  <div> 
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  </div>
-</div>
-
-###
-
-<h3 align="center">🛠 Tools that I use</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  Lower in this readme you can find technologies and tools that I am using, planning to use or even tried them.
   
-</div>
-<div align="center">
-  <a href="https://app.daily.dev/ondralosik"><img src="https://api.daily.dev/devcards/v2/iaOOUJIs5cEdlrLW0Z7vR.png?type=default&r=tqu" width="356" alt="Ondřej Losenský's Dev Card"/></a>
-</div>
-###
+</details>
+
+#### currently learning:
+* SQL
+* PHP
+* Next.js
+* Bootstrap
+
+In my repositories you will find things such as [Sorting Algorithms](https://github.com/OndrejLosensky/sorting-algorithms), [Simple Python Scripts](https://github.com/OndrejLosensky/python-scripts-simple) or [Guestbook app](https://github.com/OndrejLosensky/guestbook-app) and many more.
+
+
+
+## Working on
+
+##  💻 My Tech Stack
+  <div>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,php,cs,python,swift,nodejs,bash,npm" />
+        </a>
+      </p>
+  </div>
 
 ###
 
+## 🛠 Tools
+
 ###
 
+<div>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,docker" />
+        </a>
+      </p>
+  </div>
+  
 
-###
+
+<details>
+  <summary>Some of my github stats</summary>
+  
+  Additional information goes here.
+</details>
