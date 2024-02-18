@@ -55,5 +55,5 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
 <details>
   <summary>Some of my github stats</summary>
   
-  Additional information goes here.
+  stats here: 
 </details>
