@@ -50,7 +50,7 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
 <div>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,docker,wordpress,stackoverflow" />
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,docker,wordpress,stackoverflow,postman" />
         </a>
       </p>
   </div>
