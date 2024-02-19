@@ -1,4 +1,4 @@
-![v2banner](https://github.com/OndrejLosensky/OndrejLosensky/assets/127244546/0dde7bcf-107e-4c58-a7ba-76a129864e8e)
+![v3banner](https://github.com/OndrejLosensky/OndrejLosensky/assets/127244546/e3782768-0e5a-4c72-97be-6d8c3eab12fa)
 
 ---
 # Hi, my name is Ondřej! 👋 
