@@ -12,7 +12,7 @@ I am 19yo old software developer from Prague📌
 
 
 ## 💬 About me
-In spring 2024, I'll be graduating high school. I'm fluent in JavaScript and TypeScript, specializing in React.js for web development. Python scripting is my go-to for streamlining tasks and boosting productivity.
+In spring 2024, I'll be graduating high school.I mostly create React.js web projects with JavaScript or automation scripts with python to make my life easier.
 
 With a passion for graphic design, I ensure all my projects look top-notch, utilizing TailwindCSS for sleek styling. You can find my web projects hosted on Netlify.com.
 
