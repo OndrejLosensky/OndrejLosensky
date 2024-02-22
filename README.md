@@ -18,14 +18,6 @@ With a passion for graphic design, I ensure all my projects look top-notch, util
 
 Open to new opportunities and jobs, feel free to reach out via email.
 
-<details>
-  <summary> <strong>More...</strong> </summary>
-
-  I am passionate about creating apps that make me learn new technologies, languages, styles or anything I'll get expirience from. You can also find some of my templates that i have created for anything I thought **(Notion, Wordpress, Shopify store)**, they are somewhere sold on gumroad or any other global system to sell digital products.
-
-  Lower in this readme you can find technologies and tools that I am using, planning to use or even tried them.
-  
-</details>
 
 
 In my repositories you will find things such as [Sorting Algorithms](https://github.com/OndrejLosensky/sorting-algorithms), [Simple Python Scripts](https://github.com/OndrejLosensky/python-scripts-simple) or [Guestbook app](https://github.com/OndrejLosensky/guestbook-app) and many more.
@@ -60,5 +52,4 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
 <details>
   <summary>Some of my github stats</summary>
   
-  stats here: 
 </details>
