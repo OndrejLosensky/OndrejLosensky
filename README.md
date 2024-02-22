@@ -51,5 +51,7 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
 
 <details>
   <summary>Some of my github stats</summary>
-  
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
