@@ -49,10 +49,4 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
   
 
 
-<details>
-  <summary>Some of my github stats</summary>
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  <figure><embed src="https://wakatime.com/share/@018dd279-af88-40d4-86db-db3b3100ed1e/f1dcf2bb-5024-4d60-b88c-d3b4f8f90c69.svg"></embed></figure>
-</details>
