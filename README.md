@@ -11,7 +11,7 @@ I am 19yo old software developer from Prague📌
 
 
 
-## 💬 About me
+## `💬 About me`
 In spring 2024, I'll be graduating high school.I mostly create React.js web projects with JavaScript or automation scripts with python to make my life easier.
 
 With a passion for graphic design, I ensure all my projects look top-notch, utilizing TailwindCSS for sleek styling. You can find my web projects hosted on Netlify.com.
@@ -24,7 +24,7 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
 
 
 
-##  💻 My Tech Stack
+##  `💻 My Tech Stack`
   <div>
       <p>
         <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@ In my repositories you will find things such as [Sorting Algorithms](https://git
 
 ###
 
-## 🛠 Tools
+## `🛠 Tools`
 
 ###
 
