@@ -18,6 +18,7 @@ With a passion for graphic design, I ensure all my projects look top-notch, util
 
 Open to new opportunities and jobs, feel free to reach out via email.
 
+Check out my custom made `VSCode theme` [here](https://github.com/OndrejLosensky/losiks-theme). You can also download it and use it!
 
 
 In my repositories you will find things such as [Sorting Algorithms](https://github.com/OndrejLosensky/sorting-algorithms), [Simple Python Scripts](https://github.com/OndrejLosensky/python-scripts-simple) or [Guestbook app](https://github.com/OndrejLosensky/guestbook-app) and many more.
