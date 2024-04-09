@@ -7,7 +7,6 @@ I am 19yo old software developer from Prague📌
 
 ![losenskyondrej@gmail.com](https://img.shields.io/badge/losenskyondrej@gmail.com-red?style=flat&logo=gmail&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)
-![discord](https://img.shields.io/badge/discord-purple?style=flat&logo=discord&logoColor=white)
 
 
 
@@ -18,10 +17,8 @@ With a passion for graphic design, I ensure all my projects look top-notch, util
 
 Open to new opportunities and jobs, feel free to reach out via email.
 
-Check out my custom made `VSCode theme` [here](https://github.com/OndrejLosensky/losiks-theme). You can also download it and use it!
+Check out my custom made `VSCode theme` [here](https://github.com/OndrejLosensky/losiks-theme). You can download it and use it!
 
-
-In my repositories you will find things such as [Sorting Algorithms](https://github.com/OndrejLosensky/sorting-algorithms), [Simple Python Scripts](https://github.com/OndrejLosensky/python-scripts-simple) or [Guestbook app](https://github.com/OndrejLosensky/guestbook-app) and many more.
 
 
 
