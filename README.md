@@ -26,7 +26,7 @@ Check out my custom made `VSCode theme` [here](https://github.com/OndrejLosensky
   <div>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,php,cs,python,swift,nodejs,mysql,bash,nextjs" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,cs,python,nodejs,mysql,bash" />
         </a>
       </p>
   </div>
@@ -40,7 +40,7 @@ Check out my custom made `VSCode theme` [here](https://github.com/OndrejLosensky
 <div>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,docker,wordpress,stackoverflow,postman" />
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,wordpress,stackoverflow,postman" />
         </a>
       </p>
   </div>
