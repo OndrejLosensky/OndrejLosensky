@@ -11,22 +11,23 @@ I am 19yo old software developer from Prague📌
 
 
 ## ` 💬 About me `
-In spring 2024, I'll be graduating high school.I mostly create React.js web projects with JavaScript or automation scripts with python to make my life easier.
+I recently graduated from Technical High School of Mechanical Engineering. My main focus is on creating dynamic web projects with Next.js and TypeScript. 
+With a strong passion for graphic design, I ensure all my projects have a professional and polished appearance by leveraging TailwindCSS for sleek and modern styling. 
 
-With a passion for graphic design, I ensure all my projects look top-notch, utilizing TailwindCSS for sleek styling. You can find my web projects hosted on Netlify.com.
+Dont forget to check my web portfolio which is more detailed [www.losensky.tech](https://www.losensky.tech)
 
-Open to new opportunities and jobs, feel free to reach out via email.
+I am currently open to new opportunities and job offers. Feel free to reach out to me via email.
 
-Check out my custom made `VSCode theme` [here](https://github.com/OndrejLosensky/losiks-theme). You can download it and use it!
+Check out my custom-made VSCode theme. [here](https://github.com/OndrejLosensky/losiks-theme). You can download it and use it!
 
+For fun I started to learn game dev with Godot engine.
 
-
-
-##  `💻 My Tech Stack`
+##  `💻 Tech Stack`
   <div>
       <p>
+        <p> Here are some languages or libraries that I use. I also started to use shadcn-ui or for example clerk as an 3rd party authentification tool </p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,cs,python,nodejs,mysql,bash" />
+          <img src="https://skillicons.dev/icons?i=ts,js,nextjs,html,css,react,tailwind,php,cs,python,nodejs,mysql,firebase,supabase" />
         </a>
       </p>
   </div>
@@ -40,11 +41,10 @@ Check out my custom made `VSCode theme` [here](https://github.com/OndrejLosensky
 <div>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,wordpress,stackoverflow,postman" />
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,illustrator,figma,git,github,wordpress,stackoverflow,postman,godot" />
         </a>
       </p>
   </div>
-  
 
 
 
