@@ -18,9 +18,9 @@ Dont forget to check my web portfolio which is more detailed [www.losensky.tech]
 
 I am currently open to new opportunities and job offers. Feel free to reach out to me via email.
 
-Check out my custom-made VSCode theme. [here](https://github.com/OndrejLosensky/losiks-theme). You can download it and use it!
+Also check out my custom-made VSCode theme. [here](https://github.com/OndrejLosensky/losiks-theme). You can download it and use it!
 
-For fun I started to learn game dev with Godot engine.
+Recently I started to learn game dev with Godot engine.
 
 ##  `💻 Tech Stack`
   <div>
