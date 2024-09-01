@@ -38,4 +38,6 @@ My biggest goal is to create fully functional **Content Management System** for 
   </div>
 
 
+--- 
+![Visitor Count](https://profile-counter.glitch.me/{OndrejLosensky}/count.svg)
 
