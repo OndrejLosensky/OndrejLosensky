@@ -6,7 +6,7 @@ I'm [Ondřej](https://losensky.tech), a software developer based in Prague, Czec
 
 I like to create modern applications. My most used framework is Next.js with TypeScript. I also specialize in graphics design to make everything look sleek. 
 
-My biggest goal is to create fully functional **Content Management System** for portfolio websites and blog apps ( Something like WordPress but actually good)
+I am currently focusing on creating **Content Management System** for portfolio websites and blog apps.
 
 
 Currently working **as Junior Front-end React Developer** in Prague
