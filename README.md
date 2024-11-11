@@ -1,22 +1,20 @@
 
 # Hello there! 👋 
 
-I'm [Ondřej](https://losensky.tech), a software developer based in Prague, Czech Republic 📍🇨🇿
+Ondřej Losenský
+[losensky.tech](https://losensky.tech)
+Prague, Czech Republic 📍🇨🇿
 
+I'm a dedicated software developer based in Prague with a passion for creating modern, user-centered applications. My primary framework is Next.js with TypeScript. I also work with Angular on a daily basis
 
-I like to create modern applications. My most used framework is Next.js with TypeScript. I also specialize in graphics design to make everything look sleek. 
-
-I am currently focusing on creating **Content Management System** for portfolio websites and blog apps.
-
-
-Currently working **as Junior Front-end React Developer** in Prague
+I am currently focused on developing Content Management Systems tailored for portfolio websites and blog applications. With a strong foundation in front-end technologies, I work as a **Junior Front-End React Developer** in Prague.
 
 
 ##  `💻 Tech Stack`
   <div>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,nextjs,html,css,react,tailwind,firebase,supabase,postgres,prisma, sqlite,scss" />
+          <img src="https://skillicons.dev/icons?i=ts,nextjs,html,css,react,tailwind,postgres,prisma,sqlite,angular,c#" />
         </a>
       </p>
   </div>
