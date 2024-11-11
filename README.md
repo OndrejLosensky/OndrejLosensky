@@ -1,8 +1,7 @@
 
-# Hello there! 👋 
+# Hello there! 👋
 
-Ondřej Losenský
-[losensky.tech](https://losensky.tech)
+I am [Ondřej Losenský](https://losensky.tech) , 
 Prague, Czech Republic 📍🇨🇿
 
 I'm a dedicated software developer based in Prague with a passion for creating modern, user-centered applications. My primary framework is Next.js with TypeScript. I also work with Angular on a daily basis
