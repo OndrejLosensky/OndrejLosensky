@@ -13,7 +13,7 @@ I am currently focused on developing Content Management Systems tailored for por
   <div>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,nextjs,html,css,react,tailwind,postgres,prisma,sqlite,angular,c#" />
+          <img src="https://skillicons.dev/icons?i=ts,nextjs,html,css,react,tailwind,postgres,mongodb,prisma,angular,c#" />
         </a>
       </p>
   </div>
