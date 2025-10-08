@@ -1,34 +1,30 @@
+# 👋 Hello there!
 
-# Hello there! 👋
+I'm [Ondřej Losenský](https://www.losensky.dev), a junior software developer based in Prague, Czech Republic 🇨🇿  
 
-I am [Ondřej Losenský](https://www.losensky.dev) ,
-Prague, Czech Republic 📍🇨🇿
+I enjoy building web applications that look good and feel great to use.  
+Most of my projects are built with **React**, **TypeScript**, and **TailwindCSS**, but I like experimenting with new technologies. 
 
-I'm a dedicated software developer based in Prague with a passion for creating modern, user-centered applications. My primary framework is Next.js with TypeScript. I also work with Angular on a daily basis
+Lately I have been exploring **.NET** and other frameworks such as **Astro** 
 
-I am currently focused on developing Content Management Systems tailored for portfolio websites and blog applications. With a strong foundation in front-end technologies, I work as a **Junior Front-End React Developer** in Prague.
+## 🧰 Tools & Languages
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-black?logo=csharp&style=social)&nbsp;&nbsp;
+![.NET](https://img.shields.io/badge/-dotnet-black?logo=dotnet&style=social)&nbsp;&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-black?logo=astro&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss&style=social)&nbsp;&nbsp;
+![Postgres](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-##  `💻 Tech Stack`
-  <div>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,nextjs,html,react,tailwind,postgres,prisma,angular,c#,dotnet" />
-        </a>
-      </p>
-  </div>
+---
 
-###
+### 🌍 Connect with me
 
-## `🛠 Tools`
-
-###
-
-<div>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=apple,windows,vscode,git,github,wordpress" />
-        </a>
-      </p>
-  </div>
-
+- **Website:** [www.losensky.dev](https://www.losensky.dev)  
+- **LinkedIn:** [linkedin.com/in/losensky](https://www.linkedin.com/in/losensky)  
+- **Email:** ondrej@losensky.dev  
