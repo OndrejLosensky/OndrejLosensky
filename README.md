@@ -12,7 +12,6 @@ Lately I have been exploring **.NET** and other frameworks such as **Astro**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-black?logo=csharp&style=social)&nbsp;&nbsp;
 ![.NET](https://img.shields.io/badge/-dotnet-black?logo=dotnet&style=social)&nbsp;&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-black?logo=astro&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
